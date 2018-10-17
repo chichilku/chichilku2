@@ -1,4 +1,4 @@
-# chichilku ( pre alpha )
+# chichilku2 ( pre alpha )
 currently mostly based on the code from a youtube tutorial:
 https://www.youtube.com/watch?v=JPAyj85tJ5E&list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt
 
