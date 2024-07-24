@@ -8,3 +8,10 @@ download SDL2 from libsdl.org and put it into /Library/Frameworks
 and or idk ``brew install sdl2``
 then you also need ``brew install sdl2_image``
 then run ``compile.sh``
+
+# building on debian
+
+```
+sudo apt-get install libsdl2-image-dev libsdl2-ttf-dev
+```
+

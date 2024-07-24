@@ -8,7 +8,7 @@ do
 	echo "=== chichilku speed compiler ==="
 	echo "written by ChillerDragon"
 	echo "executing compile.sh and chichilku binary: "
-	./compile.sh; ./chichilku
+	./compile.sh; ./chichilku2
 	read -n1 -r -p "Press q to quit and anything else to rebuild..." key
 
 	if [ "$key" = 'q' ]; then
